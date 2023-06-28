@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cfdnakit"]
 	path = cfdnakit
 	url = https://github.com/pitithat-pu/cfdnakit
-	shallow = true
-	registered = true
